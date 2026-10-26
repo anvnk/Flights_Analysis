@@ -1,0 +1,132 @@
+[
+  {
+    "file": "results/figures/airlines.png",
+    "bytes": 79060,
+    "sha256": "38d7d44c1eb3b8485cf349602225ede008b61a72b91c4174a50e25317a1affec"
+  },
+  {
+    "file": "results/figures/c4_containers.png",
+    "bytes": 108835,
+    "sha256": "62dd2c9631ab0ce5bf633b97913f372f9b3e7aa65debd8e4ef014d2515e42555"
+  },
+  {
+    "file": "results/figures/c4_containers.svg",
+    "bytes": 76702,
+    "sha256": "90da76bd823adf4de80a1102cd6597a6725499ac815838aa89bc89b993e0b0a6"
+  },
+  {
+    "file": "results/figures/c4_context.png",
+    "bytes": 93908,
+    "sha256": "afaf40acc0fd91d895005d6860befae719636a91cd56e0809387391866bd91f6"
+  },
+  {
+    "file": "results/figures/c4_context.svg",
+    "bytes": 62042,
+    "sha256": "f53869b719de02bae857df3a9001397b19b78bf455c06899bcae1a1fc52b49cc"
+  },
+  {
+    "file": "results/figures/correlations.png",
+    "bytes": 160810,
+    "sha256": "8101b327c5b78096ff52b0becb6bd2de7939cdfd11bf51a0e23ff561168f41f4"
+  },
+  {
+    "file": "results/figures/groups.png",
+    "bytes": 80688,
+    "sha256": "951ff0f8d5475bceac08bef61e5adceb4baef9dc06dd5810caa1482991215b36"
+  },
+  {
+    "file": "results/figures/price.png",
+    "bytes": 50195,
+    "sha256": "22f15f6048ec7ac4337fca20452749e21c288ad772236f7b9dcd957d4f504a6b"
+  },
+  {
+    "file": "results/figures/relationships.png",
+    "bytes": 374828,
+    "sha256": "2be8c4cb9296a3a8146b04be7bd7f472913dfcf98da39eb2eb94e17e936ad636"
+  },
+  {
+    "file": "results/figures/uml_activity.png",
+    "bytes": 111956,
+    "sha256": "e9d8c2cf030550d67b29a9673f683b68e73795b45239f6d1d2a4f72ec9b6497d"
+  },
+  {
+    "file": "results/figures/uml_activity.svg",
+    "bytes": 58190,
+    "sha256": "d673944f34647930ae247869b04be8df4eb433cb50ab8c76df678686ea314cc4"
+  },
+  {
+    "file": "results/figures/uml_sequence.png",
+    "bytes": 96089,
+    "sha256": "841880a99d114320446ef97b0019d3bb16ce512ec9711a35ff90b408c4c583ee"
+  },
+  {
+    "file": "results/figures/uml_sequence.svg",
+    "bytes": 66738,
+    "sha256": "1c0501288cc8e79b70780f7d1714b3fa1f730e30f59a6486c3c2d42b0bde78c7"
+  },
+  {
+    "file": "results/figures/uml_usecase.png",
+    "bytes": 101401,
+    "sha256": "f269fd3b11ae148a3281826b2269f7a1823e30780eb2d12d429946d37a1146a5"
+  },
+  {
+    "file": "results/figures/uml_usecase.svg",
+    "bytes": 46927,
+    "sha256": "44dd2a552b27d7b1821a38044eb8c712f4e927373ea2e0ee80d60c596e66d590"
+  },
+  {
+    "file": "results/hypotheses.json",
+    "bytes": 1188,
+    "sha256": "bb4aa6a49484de72c4dd9b28136e9cec81e48c04edb6ab134a0de816abbf166f"
+  },
+  {
+    "file": "results/quality.json",
+    "bytes": 1502,
+    "sha256": "945d5001132d12a98c90483f5849ef4cc118c1877a2984f7f90e86b1ce726007"
+  },
+  {
+    "file": "results/summary.json",
+    "bytes": 305,
+    "sha256": "72b0c7fa255bf0a3c10e1f9227333807dc7f6605f270193a7181bd0dc42b24fb"
+  },
+  {
+    "file": "results/tables/airlines.csv",
+    "bytes": 561,
+    "sha256": "525c88da739bf44f7fb99abc887634c16a66150c3dac4b9873e9fe30f64de175"
+  },
+  {
+    "file": "results/tables/booking.csv",
+    "bytes": 168,
+    "sha256": "c132950d8170fa99803f09d28736431b4067e548a8652778add4e66f2650b145"
+  },
+  {
+    "file": "results/tables/cabins.csv",
+    "bytes": 81,
+    "sha256": "b901a10864cfc941c61086839d667f3b78c62597cae63667608f59a24b254bb0"
+  },
+  {
+    "file": "results/tables/hypotheses.csv",
+    "bytes": 731,
+    "sha256": "503650b07c03d8f6696a57556361c108bc4b5b5dd564f3945d0f7e0155a4420f"
+  },
+  {
+    "file": "results/tables/missing.csv",
+    "bytes": 379,
+    "sha256": "7f898c58a751754fb33ad42a5568cf165a826afc048ac3d74cb5f85d56d6f9e0"
+  },
+  {
+    "file": "results/tables/schema.csv",
+    "bytes": 583,
+    "sha256": "07700c6fc41e22a52ee1e75f6ead2c7cf8a976fc6e3343783af413b8ebd0a7bd"
+  },
+  {
+    "file": "results/tables/spearman.csv",
+    "bytes": 1444,
+    "sha256": "08c0b3b2081169a313dbea476d2c49e327985ed8c07a36c5468f1509534aea97"
+  },
+  {
+    "file": "results/tables/stops.csv",
+    "bytes": 82,
+    "sha256": "cf38f80c2a919b288623f8a3e6e52c4f7beb5b99102e0606ab6b99eedbacd838"
+  }
+]

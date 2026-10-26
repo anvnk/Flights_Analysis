@@ -1,0 +1,39 @@
+[
+  {
+    "id": "H1",
+    "question": "Цена при сроке до вылета не более 7 дней выше, чем при сроке от 30 дней",
+    "test": "Mann–Whitney, two-sided",
+    "n1": 259,
+    "n2": 841,
+    "median1": 342.6,
+    "median2": 318.6,
+    "p": 0.06582053938585752,
+    "direction_supported": true,
+    "p_holm": 0.06582053938585752,
+    "supported_exploratory": false
+  },
+  {
+    "id": "H2",
+    "question": "С увеличением расстояния цена повышается",
+    "test": "Spearman",
+    "n": 1657,
+    "rho": 0.6267905449563544,
+    "p": 1.4544153929099219e-181,
+    "direction_supported": true,
+    "p_holm": 4.3632461787297653e-181,
+    "supported_exploratory": true
+  },
+  {
+    "id": "H3",
+    "question": "Предложения с пересадками дороже прямых в общей выборке",
+    "test": "Mann–Whitney, two-sided",
+    "n1": 1278,
+    "n2": 520,
+    "median1": 377.4,
+    "median2": 218.6,
+    "p": 1.8402694294309144e-52,
+    "direction_supported": true,
+    "p_holm": 3.680538858861829e-52,
+    "supported_exploratory": true
+  }
+]

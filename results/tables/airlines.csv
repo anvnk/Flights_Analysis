@@ -1,0 +1,17 @@
+﻿airlines,count,median
+JetBlue Airways,71,198.6
+Delta,120,218.6
+United,101,218.6
+Spirit Airlines||Spirit Airlines,92,225.83
+American Airlines,193,253.8
+American Airlines||American Airlines,344,299.1
+JetBlue Airways||JetBlue Airways,58,337.11
+American Airlines||American Airlines||American Airlines,26,368.905
+United||United,234,370.6
+Delta||Delta,243,397.21
+Delta||Delta||Delta,22,540.405
+United||Delta,24,544.2
+Delta||United,22,581.405
+United||United||Delta,21,596.1
+Alaska Airlines||Alaska Airlines,33,598.6
+Delta||United||United,23,651.71

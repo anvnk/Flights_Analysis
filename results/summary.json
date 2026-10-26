@@ -1,0 +1,15 @@
+{
+  "rows": 1798,
+  "source_columns": 20,
+  "search_min": "2022-04-16",
+  "search_max": "2022-07-31",
+  "flight_min": "2022-04-18",
+  "flight_max": "2022-09-25",
+  "routes": 233,
+  "airline_itineraries": 45,
+  "cabin_counts": {
+    "coach": 1795,
+    "mixed": 2,
+    "premium coach": 1
+  }
+}
