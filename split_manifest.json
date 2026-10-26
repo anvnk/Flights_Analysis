@@ -1,0 +1,47 @@
+{
+  "source": "data/raw/flights_data.csv",
+  "source_sha256": "31e43e74be08e4cc5b5c9948c3b955c52526d54c0e07b715e699b19a353caaa6",
+  "total_rows": 3000,
+  "date_column": "searchDate",
+  "method": "Chronological, with complete searchDate groups; approximately 60% initial and 3 batches",
+  "partitions": [
+    {
+      "file": "data/initial/initial.csv",
+      "rows": 1798,
+      "percent": 59.9333,
+      "searchDate_min": "2022-04-16",
+      "searchDate_max": "2022-07-31",
+      "sha256": "9df14ecffb97eac5c8328d89582dd2c5b61f817baba555d0f81bd62f5fb5f536"
+    },
+    {
+      "file": "data/incoming/batch_01.csv",
+      "rows": 397,
+      "percent": 13.2333,
+      "searchDate_min": "2022-08-01",
+      "searchDate_max": "2022-08-21",
+      "sha256": "e0ccd2a07fe7332e2a54887e3d53c3b7198c8d034eaaa3e32647bed6bfae5abe"
+    },
+    {
+      "file": "data/incoming/batch_02.csv",
+      "rows": 395,
+      "percent": 13.1667,
+      "searchDate_min": "2022-08-22",
+      "searchDate_max": "2022-09-12",
+      "sha256": "4c7a4f44feb958a18da00f27c560ad2b6ff46ab1a3869f2908b1d88c987c8d85"
+    },
+    {
+      "file": "data/incoming/batch_03.csv",
+      "rows": 410,
+      "percent": 13.6667,
+      "searchDate_min": "2022-09-13",
+      "searchDate_max": "2022-10-05",
+      "sha256": "fc42dd9b7c5a947914ee368cefe633b86ad1c177f47db19a7c67b7800e31c112"
+    }
+  ],
+  "validation": {
+    "all_rows_preserved": true,
+    "values_preserved": true,
+    "dates_do_not_overlap": true,
+    "raw_unchanged": true
+  }
+}
